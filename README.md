@@ -3,6 +3,7 @@
  *Project 1*: File Data Processor in C
 
 In this project, I built a C application to handle and process data from a text file. Here’s a quick rundown of the techniques used:
+
 **File Handling**: Utilized C functions (`fopen()`, `fclose()`, `fscanf()`, `fprintf()`) to read and write data from the file.
 **Dynamic Memory Allocation**: Used `malloc()` to manage memory for records of varying sizes.
 **String Manipulation**: Applied functions like `fgets()`, `strcpy()`, and `strcspn()` to handle and clean text input.
