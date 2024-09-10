@@ -3,15 +3,15 @@
 ## Project 1:Data Management System in C
 This C application manages and processes structured data using **arrays**. It demonstrates proficiency in C programming concepts such as dynamic memory allocation, file handling, data validation, and sorting algorithms.
 Features
-### **Dynamic Memory Management:
+### **Dynamic Memory Management**:
 Utilizes malloc and realloc for dynamic memory allocation, ensuring efficient use of resources.
 ### **File Handling**:
 Reads from and writes to files using fopen, fscanf, fprintf, and fclose, handling various data formats and ensuring data integrity.
-### **Data Validation: 
+### **Data Validation**: 
 Implements validation routines to ensure data correctness, including checks for valid IDs, modules, data types, and timestamps.
-### **Sorting and Filtering:
+### **Sorting and Filtering**:
 Uses bubble sort to order data based on specific criteria and filters data according to user inputs.
-### **Memory Cleanup:
+### **Memory Cleanup**:
 Frees dynamically allocated memory to prevent memory leaks, demonstrating good memory management practices.
 
 
