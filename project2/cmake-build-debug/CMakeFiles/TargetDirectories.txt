@@ -1,0 +1,3 @@
+D:/study/git/1/prpr/cmake-build-debug/CMakeFiles/prpr.dir
+D:/study/git/1/prpr/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/study/git/1/prpr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
